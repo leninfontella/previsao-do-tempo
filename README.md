@@ -1,12 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌦️ Weather App com React
 
-Currently, two official plugins are available:
+Um aplicativo de previsão do tempo construído com **React**!  
+Aprenda como exibir informações climáticas atualizadas de qualquer cidade do mundo em tempo real. Este projeto é ideal para quem quer:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Praticar **React.js**
+- Aprender a consumir **APIs externas**
+- Melhorar habilidades em **desenvolvimento front-end**
 
-## Expanding the ESLint configuration
+## 🚀 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Busca por cidade
+- Exibição de temperatura, condição climática, umidade e vento
+- Interface clean e responsiva
+- Dados atualizados em tempo real via API
+
+## 🧠 Tecnologias utilizadas
+
+- React.js
+- HTML & CSS
+- JavaScript
+- API de clima (como OpenWeatherMap)
+
+## 🌍 API utilizada
+
+Este app utiliza a [OpenWeatherMap API](https://openweathermap.org/api) para obter os dados do clima.
+
+## 💡 Próximos passos
+
+- Melhorar estilo e design
+- Adicionar previsão para os próximos dias
+- Geolocalização automática do usuário
+
+## 📸 Preview
+
+ 
+ 
+
+ 
