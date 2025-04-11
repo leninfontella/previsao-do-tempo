@@ -35,7 +35,7 @@ Este app utiliza a [OpenWeatherMap API](https://openweathermap.org/api) para obt
 ## 📸 Preview
 
 <p align="center">
-  <img alt="Agregador de Links" src="https://i.ibb.co/k29Ks75M/previsao.jpg" width="30%">
+  <img alt="Agregador de Links" src="https://i.ibb.co/k29Ks75M/previsao.jpg" width="50%">
 </p>
  
  
